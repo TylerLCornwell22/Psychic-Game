@@ -1,0 +1,21 @@
+.row{
+    padding-top: 40px;
+    margin-left: 5px
+
+
+
+}
+h1 {
+    font-size: 80px;
+    color: blue;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 25px;
+
+}
+
+.list-group-item {
+    font-size: 45px;
+}
